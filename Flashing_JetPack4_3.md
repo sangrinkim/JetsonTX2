@@ -39,7 +39,7 @@ Host OS: Ubuntu 18.04.3 LTS
     > `./setup.sh`
     > you can see "DONE" on terminal
 
-	14. Follow sdkmanager for flashing
+	14. sudo ./flash.sh jetson-tx2 mmcblk0p1
 
 	15. reboot Jetson TX2 after install
 
