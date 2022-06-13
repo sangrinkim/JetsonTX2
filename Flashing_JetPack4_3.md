@@ -52,3 +52,7 @@ Host OS: Ubuntu 18.04.3 LTS
 
 ### Jetson TX2 default account
 user / password: nvidia / nvidia
+
+
+
+ps. I will never buy this device..
